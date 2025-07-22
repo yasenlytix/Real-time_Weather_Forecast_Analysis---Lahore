@@ -141,6 +141,14 @@
 > #### **Side Cards:- AQI, sunrise/sunset, rain chance**
 ### ➥ I used card visuals, line graphs, bar indicators, and gauge charts to represent multi-layered data cleanly.
 
+
+<br>
+
+<p align="center">
+  <img src="link_here" style="max-width: 100%; height: auto;" />
+</p>
+
+
 <br>
 
 
