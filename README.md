@@ -122,6 +122,48 @@
 <br>
 
 
-## **3️⃣ Defined the Objective & Scope**
+## **3️⃣ Created Custom Measures Using DAX (Data Analysis Expressions)**
+#### I Wrote complex DAX queries for:-
+> #### **Calculating rain percentages**
+> #### **Categorizing AQI levels (e.g., Moderate, Unhealthy)**
+> #### **Forecast trend line logic**
+> #### **Conditional formatting (color-coded bars, icons, severity levels)**
+#### ➥ I Overcame DAX challenges using ChatGPT, community forums, and hands-on testing.
+
+<br>
+
+
+## **4️ Structured the Dashboard with Clear Visual Zones**
+#### I organized data into sections:---
+> #### **Left Panel:- Current weather conditions**
+> #### **Top Strip:- 7-day forecast preview**
+> #### **Graph Zone:- Forecast temperature trends**
+> #### **Side Cards:- AQI, sunrise/sunset, rain chance**
+#### ➥ I used card visuals, line graphs, bar indicators, and gauge charts to represent multi-layered data cleanly.
+
+<br>
+
+
+## **5️⃣ Designed UI/UX in Figma Before Implementation**
+#### I built so many Report Layouts in Figma to visualize the User-Interface, layout, color schemes, and user flow.
+#### I prioritized minimalist UI, bold icons, and high-contrast readability.
+#### I ensured a mobile-responsive feel and modern look aligned with industry dashboards.
+
+> #### quote
+
+<br>
+
+
+## **6️⃣ Tested and Validated Every Metric**
+#### I cross-checked values from the API with displayed outputs to ensure accuracy.
+#### I ran multiple refresh cycles to verify data update logic.
+#### I validated custom DAX formulas manually for consistency and reliability.
+
+<br>
+
+
+## **7️⃣ Optimized for Performance & User Interaction**
+#### 
+
 
 
