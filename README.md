@@ -33,7 +33,7 @@
 
 ## ***❸ Lack of Centralized, Real-Time Weather Data***
 ### Businesses and citizens rely on fragmented apps or foreign data sources that don’t update locally in real-time.
-### Most global weather platforms do not offer localized, visual, and city-specific data for regions like Lahore, Sialkot, or Karachi with regional UX in mind. Businesses struggle to make city-level decisions using generic platforms.
+### Most global weather platforms do not offer localized, visual, and city-specific data for regions like Lahore, Sialkot, or Karachi, with regional UX in mind. Businesses struggle to make city-level decisions using generic platforms.
 
 <br>
 
@@ -57,7 +57,7 @@
 
 <br>
 
-> - ### **The dashboard enables quick switching & comparison between major cities to synchronize decision-making. The Dashboard allows side-by-side viewing of Sialkot, Lahore, Karachi, Islamabad and Faisalabad**
+> - ### **The dashboard enables quick switching & comparison between major cities to synchronize decision-making. The Dashboard allows side-by-side viewing of Sialkot, Lahore, Karachi, Islamabad, and Faisalabad**
 
 <br>
 
@@ -76,7 +76,7 @@
 
 <br>
 
-> - ### **I have inserted Forecast graph into the Dashboard. The forecast graph brings out pattern awareness, essential for longer-term scheduling or outdoor event planning.**
+> - ### **I have inserted the Forecast graph into the Dashboard. The forecast graph brings out pattern awareness, essential for longer-term scheduling or outdoor event planning.**
 
 <br>
 
@@ -85,7 +85,7 @@
 
 <br>
 
-> - ### **The Dashboard have this minor but high-utility detail that many apps skip.**
+> - ### **The Dashboard has this minor but high-utility detail that many apps skip.**
 
 <br>
 <br>
@@ -111,7 +111,7 @@
 
 
 ## ***2️⃣ Connected Real-Time Weather Data via API***
-### I Used JSON parsing and Power Query to bring data into a structured format within Power BI.
+### I used JSON parsing and Power Query to bring data into a structured format within Power BI.
 ### ➥ I integrated a reliable weather API (e.g., OpenWeatherMap or similar) to fetch:---
 > #### **Temperature, humidity, wind speed**
 > #### **Forecast for 7 days**
@@ -123,7 +123,7 @@
 
 
 ## ***3️⃣ Created Custom Measures Using DAX (Data Analysis Expressions)***
-### I Wrote complex DAX queries for:-
+### I wrote complex DAX queries for:-
 > #### **Calculating rain percentages**
 > #### **Categorizing AQI levels (e.g., Moderate, Unhealthy)**
 > #### **Forecast trend line logic**
@@ -182,7 +182,7 @@
 
 ## ***8️⃣ Leveraged AI & Self-Learning***
 ### I used AI tools like ChatGPT to debug DAX formulas, improve logic, and understand weather data categories.
-### ➥ I also followed online tutorials, resources and documentation to solve specific technical challenges & maintining its performance during the build.
+### ➥ I also followed online tutorials, resources, and documentation to solve specific technical challenges & maintain its performance during the build.
 
 <br>
 <br>
@@ -208,7 +208,7 @@
 <br>
 
 ## ***💡 Empowers Decision-Makers with Actionable Insights***
-### Dashboard Provides managers, planners, and field teams with a one-screen view to:-
+### Dashboard provides managers, planners, and field teams with a one-screen view to:-
 > ### Plan ahead using 7-day weather + AQI trends.
 > ### Avoid operations during unhealthy air quality spikes.
 > ### Adjust workforce timing based on sunrise/sunset hours (e.g., 5:08 AM to 7:06 PM in Lahore).
@@ -217,7 +217,7 @@
 
 ## ***💡 Raises Public Health Awareness Through AQI Integration***
 > ### Highlights toxic gas levels like CO = 931 (Hazardous), which often go ignored.
-> ### Encourages health-based decision-making, e.g Outdoor Activity, Masks Usage etc.
+> ### Encourages health-based decision-making, e.g Outdoor Activity, Mask Usage, etc.
 
 <br>
 
@@ -236,7 +236,7 @@
 ### The current version lays the foundation for:-
 > ### Real-time alerts & notifications.
 > ### Mobile app integration.
-> ### More cities, weather layers (e.g. pollen, flood risk).
+> ### More cities, weather layers (e.g, pollen, flood risk).
 
 
 <br>
@@ -244,7 +244,7 @@
 
 
 # **🤪 Summary**
-### This Dashboard doesn’t just show weather — it empowers decisions, protects health, and strengthens operations. It’s a practical, tech-driven response to a real-world problem — and a great representation of my skills as an emerging data professional.
+### ➥ This Dashboard doesn’t just show weather — it empowers decisions, protects health, and strengthens operations. It’s a practical, tech-driven response to a real-world problem — and a great representation of my skills as an emerging data professional.
 
 
 
