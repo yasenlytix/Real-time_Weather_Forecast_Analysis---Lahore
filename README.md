@@ -23,13 +23,20 @@
 ### Most dashboards do not integrate AQI (Air Quality Index) with weather. Yet, this data is crucial for health, outdoor planning, and government advisories - especially in polluted cities like Lahore.
 ### Heat, humidity, UV, and poor AQI can worsen health issues. Yet, there’s minimal integration of weather dashboards with healthcare planning in Pakistan.
 
+
 <br>
 
 > - ### **The dashboard visualizes AQI levels (PM, CO, SO₂, NO₂, O₃) with colors and categories (e.g., Moderate, Unhealthy). Dashboard also raises awareness of these risks (e.g., AQI = 931 CO 🚨).**
 
 
+<br>
+
+<div align="center">
+  <img src="https://github.com/yasenlytix/Real-time_Weather_Forecast_Analysis---Lahore/blob/fb3ddb87466c84b02c33535015e7b6ed0a983fd6/Project_Data/AQI_view.jpg" alt="Alt Text" width="500"/>
+</div>
 
 <br>
+
 
 ## ***❸ Lack of Centralized, Real-Time Weather Data***
 ### Businesses and citizens rely on fragmented apps or foreign data sources that don’t update locally in real-time.
@@ -88,7 +95,14 @@
 > - ### **The Dashboard has this minor but high-utility detail that many apps skip.**
 
 <br>
+
+<div align="center">
+  <img src="https://github.com/yasenlytix/Real-time_Weather_Forecast_Analysis---Lahore/blob/4f03419ba7c98b5ce10603073cf0b24e8b9f22e4/Project_Data/sun_rise_set_visual.jpg" alt="Alt Text" width="350"/>
+</div>
+
 <br>
+<br>
+
 
 
 ------------------------------------------------------------------------------------
@@ -286,12 +300,18 @@
 <br>
 
 
+------------------------------------------------------------------------------------
+
+
+<br>
+<br>
+
 
 # **🤪 Summary**
-### ➥ This Dashboard doesn’t just show weather — it empowers decisions, protects health, and strengthens operations. It’s a practical, tech-driven response to a real-world problem — and a great representation of my skills as an emerging data professional.
+### ➥ *This Dashboard doesn’t just show weather — it empowers decisions, protects health, and strengthens operations. It’s a practical, tech-driven response to a real-world problem — and a great representation of my skills as an emerging data professional.*
 
 
-
-
+<br>
+<br>
 
 
