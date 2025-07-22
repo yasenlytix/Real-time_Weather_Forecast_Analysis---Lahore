@@ -146,7 +146,7 @@
 
 ## **5️⃣ Designed UI/UX in Figma Before Implementation**
 ### ➥ I built so many Report Layouts in Figma to visualize the User-Interface, layout, color schemes, and user flow.
-### ➥ I prioritized minimalist UI, bold icons, and high-contrast readability.
+> - ### I prioritized minimalist UI, bold icons, and high-contrast readability.
 ### ➥ I ensured a mobile-responsive feel and modern look aligned with industry dashboards.
 
 > #### quote
@@ -156,14 +156,25 @@
 
 ## **6️⃣ Tested and Validated Every Metric**
 ### ➥ I cross-checked values from the API with displayed outputs to ensure accuracy.
-### ➥ I ran multiple refresh cycles to verify data update logic.
+> - ### I ran multiple refresh cycles to verify data update logic.
 ### ➥ I validated custom DAX formulas manually for consistency and reliability.
 
 <br>
 
 
 ## **7️⃣ Optimized for Performance & User Interaction**
-### 
+### ➥ Reduced visual clutter by grouping similar elements and applying filters.
+> - ### Ensured all tooltips, labels, and legends were meaningful and easy to follow.
+### ➥ Made interactions smooth by applying slicers or filters to switch between cities dynamically.
+
+
+
+
+
+
+
+
+
 
 
 
