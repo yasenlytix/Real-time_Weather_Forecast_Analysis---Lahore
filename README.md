@@ -14,7 +14,7 @@
 
 <br>
 
-- ### 
+> - ### **The Dashboard shows daily rain probability (e.g., 100% for Fri–Sun), helping teams plan ahead.**
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-- ### **This Dashboard raises awareness of these risks** (e.g., AQI = 931 CO 🚨).
+> - ### **The dashboard visualizes AQI levels (PM, CO, SO₂, NO₂, O₃) with colors and categories (e.g., Moderate, Unhealthy).**
 
 
 
@@ -32,6 +32,11 @@
 
 ## ***❸ Lack of Centralized, Real-Time Weather Data***
 ### Businesses and citizens rely on fragmented apps or foreign data sources that don’t update locally in real-time.
+### Most global weather platforms do not offer localized, visual, and city-specific data for regions like Lahore, Sialkot, or Karachi with regional UX in mind. Businesses struggle to make city-level decisions using generic platforms.
+
+<br>
+
+> - ### **The Dashboard integrates live API data, providing a local, instantly updated snapshot of weather essentials.**
 
 <br>
 
@@ -40,8 +45,16 @@
 
 <br>
 
+> - ### **By converting complex data into easy-to-read visuals (graphs, bars, icons), The Dashboard bridges the technical-to-human gap.**
+
+<br>
+
 ## ***❺ Need for Multi-City Weather Comparison***
 ### Many operations in Pakistan are spread across cities — such as Sialkot (textile), Lahore (urban), Karachi (port).
+
+<br>
+
+> - ### **The dashboard enables quick switching & comparison between major cities to synchronize decision-making.**
 
 <br>
 
@@ -50,12 +63,37 @@
 
 <br>
 
+> - ### **The Dashboard proactively displays rain % for the entire week, giving visibility to critical disruptions ahead.**
+
+<br>
+
 ## ***❼ Invisibility of Forecast Trends***
 ### People often rely on “today’s weather” only, without seeing the week-long trend (e.g., rising temps from Friday–Sunday).
 
 <br>
 
+> - ### **I have inserted Forecast graph into the Dashboard. The forecast graph brings out pattern awareness, essential for longer-term scheduling or outdoor event planning.**
+
+<br>
+
 ## ***❽ Ignoring Daily Sunlight Timings***
 ### Knowing sunrise and sunset is essential for workers (site engineers, delivery teams), especially in energy-conscious routines.
+
+<br>
+
+> - ### **The Dashboard have this minor but high-utility detail that many apps skip.**
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
 
 
