@@ -4,7 +4,7 @@
 <br>
 <br>
 
-# **🎯 Problematic Crisis**
+# **🎯 Problematic Crisis Overview**
 
 <br>
 
@@ -88,20 +88,40 @@
 > - ### **The Dashboard have this minor but high-utility detail that many apps skip.**
 
 <br>
+<br>
 
 
+------------------------------------------------------------------------------------
 
 
+<br>
+<br>
 
 
+# **😵 Practical Steps & Strategies**
+
+<br>
+
+## **1️⃣ Defined the Objective & Scope**
+#### I focused on creating a real-time, visually rich weather dashboard centered on Lahore, with support for major cities like Sialkot and Karachi.
+### ➥ Key objective:- 
+> #### **Help businesses and citizens make smarter decisions by combining weather + air quality + forecast + sunrise/sunset in one place.**
+
+<br>
 
 
+## **2️⃣ Connected Real-Time Weather Data via API**
+#### I Used JSON parsing and Power Query to bring data into a structured format within Power BI.
+#### ➥ Integrated a reliable weather API (e.g., OpenWeatherMap or similar) to fetch:---
+> #### **Temperature, humidity, wind speed**
+> #### **Forecast for 7 days**
+> #### **AQI metrics:- CO, PM2.5, PM10, NO₂, SO₂, O₃**
+> #### **UV Index, rain probability, sunrise/sunset**
 
 
+<br>
 
 
-
-
-
+## **3️⃣ Defined the Objective & Scope**
 
 
