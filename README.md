@@ -103,16 +103,16 @@
 <br>
 
 ## **1️⃣ Defined the Objective & Scope**
-#### I focused on creating a real-time, visually rich weather dashboard centered on Lahore, with support for major cities like Sialkot and Karachi.
-### ➥ Key objective:- 
+### I focused on creating a real-time, visually rich weather dashboard centered on Lahore, with support for major cities like Sialkot and Karachi.
+### ***➥ Key objective:-*** 
 > #### **Help businesses and citizens make smarter decisions by combining weather + air quality + forecast + sunrise/sunset in one place.**
 
 <br>
 
 
 ## **2️⃣ Connected Real-Time Weather Data via API**
-#### I Used JSON parsing and Power Query to bring data into a structured format within Power BI.
-#### ➥ Integrated a reliable weather API (e.g., OpenWeatherMap or similar) to fetch:---
+### I Used JSON parsing and Power Query to bring data into a structured format within Power BI.
+### ➥ I integrated a reliable weather API (e.g., OpenWeatherMap or similar) to fetch:---
 > #### **Temperature, humidity, wind speed**
 > #### **Forecast for 7 days**
 > #### **AQI metrics:- CO, PM2.5, PM10, NO₂, SO₂, O₃**
@@ -123,31 +123,31 @@
 
 
 ## **3️⃣ Created Custom Measures Using DAX (Data Analysis Expressions)**
-#### I Wrote complex DAX queries for:-
+### I Wrote complex DAX queries for:-
 > #### **Calculating rain percentages**
 > #### **Categorizing AQI levels (e.g., Moderate, Unhealthy)**
 > #### **Forecast trend line logic**
 > #### **Conditional formatting (color-coded bars, icons, severity levels)**
-#### ➥ I Overcame DAX challenges using ChatGPT, community forums, and hands-on testing.
+### ➥ I Overcame DAX challenges using ChatGPT, community forums, and hands-on testing.
 
 <br>
 
 
 ## **4️ Structured the Dashboard with Clear Visual Zones**
-#### I organized data into sections:---
+### I organized data into sections:---
 > #### **Left Panel:- Current weather conditions**
 > #### **Top Strip:- 7-day forecast preview**
 > #### **Graph Zone:- Forecast temperature trends**
 > #### **Side Cards:- AQI, sunrise/sunset, rain chance**
-#### ➥ I used card visuals, line graphs, bar indicators, and gauge charts to represent multi-layered data cleanly.
+### ➥ I used card visuals, line graphs, bar indicators, and gauge charts to represent multi-layered data cleanly.
 
 <br>
 
 
 ## **5️⃣ Designed UI/UX in Figma Before Implementation**
-#### I built so many Report Layouts in Figma to visualize the User-Interface, layout, color schemes, and user flow.
-#### I prioritized minimalist UI, bold icons, and high-contrast readability.
-#### I ensured a mobile-responsive feel and modern look aligned with industry dashboards.
+### ➥ I built so many Report Layouts in Figma to visualize the User-Interface, layout, color schemes, and user flow.
+### ➥ I prioritized minimalist UI, bold icons, and high-contrast readability.
+### ➥ I ensured a mobile-responsive feel and modern look aligned with industry dashboards.
 
 > #### quote
 
@@ -155,15 +155,15 @@
 
 
 ## **6️⃣ Tested and Validated Every Metric**
-#### I cross-checked values from the API with displayed outputs to ensure accuracy.
-#### I ran multiple refresh cycles to verify data update logic.
-#### I validated custom DAX formulas manually for consistency and reliability.
+### ➥ I cross-checked values from the API with displayed outputs to ensure accuracy.
+### ➥ I ran multiple refresh cycles to verify data update logic.
+### ➥ I validated custom DAX formulas manually for consistency and reliability.
 
 <br>
 
 
 ## **7️⃣ Optimized for Performance & User Interaction**
-#### 
+### 
 
 
 
