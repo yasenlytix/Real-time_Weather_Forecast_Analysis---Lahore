@@ -20,11 +20,12 @@
 
 ## ***❷ Air Quality Crisis & Public Health Concerns***
 ### Lahore has repeatedly ranked among the most polluted cities globally (e.g., CO level = 931, extremely hazardous).
+### Most dashboards do not integrate AQI (Air Quality Index) with weather. Yet, this data is crucial for health, outdoor planning, and government advisories - especially in polluted cities like Lahore.
 ### Heat, humidity, UV, and poor AQI can worsen health issues. Yet, there’s minimal integration of weather dashboards with healthcare planning in Pakistan.
 
 <br>
 
-> - ### **The dashboard visualizes AQI levels (PM, CO, SO₂, NO₂, O₃) with colors and categories (e.g., Moderate, Unhealthy).**
+> - ### **The dashboard visualizes AQI levels (PM, CO, SO₂, NO₂, O₃) with colors and categories (e.g., Moderate, Unhealthy). Dashboard also raises awareness of these risks (e.g., AQI = 931 CO 🚨).**
 
 
 
@@ -42,6 +43,7 @@
 
 ## ***❹ Poor Data Visibility for Non-Technical Stakeholders***
 ### Raw data from APIs is hard to understand for Non-Developers, Managers, Stakeholders, Healthcare Experts, and Non-Technical Decision Makers.
+### Weather APIs often return complex JSON data, which is not human-readable for managers and non-tech stakeholders. This causes inefficiencies in using weather insights during day-to-day operations.
 
 <br>
 
@@ -51,15 +53,17 @@
 
 ## ***❺ Need for Multi-City Weather Comparison***
 ### Many operations in Pakistan are spread across cities — such as Sialkot (textile), Lahore (urban), Karachi (port).
+### Businesses working across cities (e.g., e-commerce, logistics) have no single platform to compare weather across key cities to align field operations.
 
 <br>
 
-> - ### **The dashboard enables quick switching & comparison between major cities to synchronize decision-making.**
+> - ### **The dashboard enables quick switching & comparison between major cities to synchronize decision-making. The Dashboard allows side-by-side viewing of Sialkot, Lahore, Karachi, Islamabad and Faisalabad**
 
 <br>
 
 ## ***❻ Unpredictable Rainfall Impacting Urban Operations***
 ### Rainfall directly impacts delivery delays, traffic congestion, waterlogging, and outdoor work.
+### Lack of focus on rain probability prevents companies from managing resources (e.g., moving goods, changing delivery schedules, pausing construction) in advance.
 
 <br>
 
@@ -84,6 +88,10 @@
 > - ### **The Dashboard have this minor but high-utility detail that many apps skip.**
 
 <br>
+
+
+
+
 
 
 
