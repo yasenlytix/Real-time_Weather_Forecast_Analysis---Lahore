@@ -142,11 +142,15 @@
 ### ➥ I used card visuals, line graphs, bar indicators, and gauge charts to represent multi-layered data cleanly.
 
 
+
+
+<br>
 <br>
 
-<p align="center">
-  <img src="link_here" style="max-width: 100%; height: auto;" />
-</p>
+
+<div align="center">
+  <img src="https://github.com/yasenlytix/Real-time_Weather_Forecast_Analysis---Lahore/blob/fb3ddb87466c84b02c33535015e7b6ed0a983fd6/Project_Data/Env_Factors_visual.jpg" alt="Alt Text" width="350"/>
+</div>
 
 
 <br>
@@ -164,10 +168,25 @@
 <br>
 
 
+<div align="center">
+  <img src="https://github.com/yasenlytix/Real-time_Weather_Forecast_Analysis---Lahore/blob/fb3ddb87466c84b02c33535015e7b6ed0a983fd6/Project_Data/Layout.jpg" alt="Alt Text" width="500"/>
+</div>
+
+
+<br>
+
+
 ## ***6️⃣ Tested and Validated Every Metric***
 ### ➥ I cross-checked values from the API with displayed outputs to ensure accuracy.
 > - ### I ran multiple refresh cycles to verify data update logic.
 ### ➥ I validated custom DAX formulas manually for consistency and reliability.
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/yasenlytix/Real-time_Weather_Forecast_Analysis---Lahore/blob/fb3ddb87466c84b02c33535015e7b6ed0a983fd6/Project_Data/AQI_view.jpg" alt="Alt Text" width="500"/>
+</div>
+
 
 <br>
 
@@ -183,6 +202,16 @@
 ## ***8️⃣ Leveraged AI & Self-Learning***
 ### I used AI tools like ChatGPT to debug DAX formulas, improve logic, and understand weather data categories.
 ### ➥ I also followed online tutorials, resources, and documentation to solve specific technical challenges & maintain its performance during the build.
+
+<br>
+<br>
+<br>
+
+
+<p align="center">
+  <img src="https://github.com/yasenlytix/Real-time_Weather_Forecast_Analysis---Lahore/blob/fb3ddb87466c84b02c33535015e7b6ed0a983fd6/Weather_Analysis_Dashboard_1x.jpg?raw=true" alt="1st_KPI" style="max-width: 100%; height: auto;" />
+</p>
+
 
 <br>
 <br>
@@ -215,6 +244,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github.com/yasenlytix/Real-time_Weather_Forecast_Analysis---Lahore/blob/fb3ddb87466c84b02c33535015e7b6ed0a983fd6/Project_Data/Forecast_visual.jpg" alt="Alt Text" width="550"/>
+</div>
+
+<br>
+
 ## ***💡 Raises Public Health Awareness Through AQI Integration***
 > ### Highlights toxic gas levels like CO = 931 (Hazardous), which often go ignored.
 > ### Encourages health-based decision-making, e.g Outdoor Activity, Mask Usage, etc.
@@ -227,6 +262,14 @@
 > ### Government use
 > ### Local logistics firms
 > ### Public health departments
+
+
+<br>
+
+
+<div align="center">
+  <img src="https://github.com/yasenlytix/Real-time_Weather_Forecast_Analysis---Lahore/blob/fb3ddb87466c84b02c33535015e7b6ed0a983fd6/Project_Data/Cities_switch_visual.jpg" alt="Alt Text" width="400"/>
+</div>
 
 
 <br>
